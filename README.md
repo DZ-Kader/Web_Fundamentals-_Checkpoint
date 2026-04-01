@@ -1,1 +1,1 @@
-Gomycodde master degree checkpoint
+Gomycode master degree checkpoint
